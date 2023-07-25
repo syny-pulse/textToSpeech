@@ -1,0 +1,36 @@
+body {
+    background: #887171;
+    align-items: center;
+    font-family: Arial;
+    text-align: center;
+    margin: 30px;
+    }
+h1 {
+    color: #02182f
+
+}
+
+textarea {
+    width: 80%;
+    min-height: 50px;
+    font-size: 16px;
+    resize: none;
+    padding: 10px;
+    overflow: hidden;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #007bff;
+    color:aliceblue;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    }
+
+button:hover {
+    background-color: #0056b3;
+}
